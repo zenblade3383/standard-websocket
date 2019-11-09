@@ -1,0 +1,22 @@
+{
+	"name": "websocket",
+	"version": "1.0.0",
+	"engines": {
+		"node": "12.13.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/zenblade3383/socket.git"
+	},
+	"description": "Best Websocket Ever",
+	"main": "index.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"keywords": [],
+	"author": "Jaime Alexander Argila",
+	"license": "ISC",
+	"dependencies": {
+		"ws": "7.1.2"
+	}
+}

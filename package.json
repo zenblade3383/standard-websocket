@@ -17,6 +17,6 @@
 	"author": "Jaime Alexander Argila",
 	"license": "ISC",
 	"dependencies": {
-		"ws": "7.1.2"
+		"ws": "7.5.10"
 	}
 }
